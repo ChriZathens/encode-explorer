@@ -580,7 +580,7 @@ $_TRANSLATIONS["el"] = array(
 	"last_changed" => "Τροποποιημένο",
 	"total_used_space" => "Χρησιμοποιημένος χώρος",
 	"free_space" => "Ελεύθερος χώρος",
-	"password" => "Εισάγεται κωδικό",
+	"password" => "Εισάγετε κωδικό",
 	"upload" => "Φόρτωση",
 	"failed_upload" => "Αποτυχία φόρτωσης αρχείου!",
 	"failed_move" => "Αποτυχία μεταφοράς αρχείου στον κατάλληλο φάκελο!",
@@ -588,9 +588,21 @@ $_TRANSLATIONS["el"] = array(
 	"make_directory" => "Δημιουργία νέου φακέλου",
 	"new_dir_failed" => "Αποτυχία δημιουργίας νέου φακέλου",
 	"chmod_dir_failed" => "Αποτυχία τροποποίησης δικαιωμάτων φακέλου",
-	"unable_to_read_dir" => "Unable to read directory",
-	"location" => "Location",
-	"root" => "Root"
+	"unable_to_read_dir" => "Αδυναμία ανάγνωσης φακέλου",
+	"location" => "Τοποθεσία",
+	"root" => "Root",
+	"log_file_permission_error" => "Το πρόγραμμα δεν έχει δικαιώματα για να γράψει στο αρχείο καταγραφής.",
+	"upload_not_allowed" => "Η ρύθμιση του προγράμματος δεν επιτρέπει φόρτωση αρχείων σε αυτό το φάκελο.",
+	"upload_dir_not_writable" => "Αυτός ο φάκελος δεν έχει διακαιώματα εγγραφής.",
+	"mobile_version" => "Προβολή φορητής συσκευής",
+	"standard_version" => "Τυπική προβολή",
+	"page_load_time" => "Η σελίδα φορτώθηκε σε %.2f ms",
+	"wrong_pass" => "Λανθασμένο όνομα χρήστη ή κωδικός πρόσβασης",
+	"username" => "Όνομα χρήστη",
+	"log_in" => "Σύνδεση",
+	"upload_type_not_allowed" => "Αυτός ο τύπος αρχείου δεν επιτρέπεται για φόρτωση.",
+	"del" => "Διαγραφή",
+	"log_out" => "Αποσύνδεση"
 );
 
 // Spanish
